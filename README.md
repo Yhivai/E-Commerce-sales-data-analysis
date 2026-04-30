@@ -1,4 +1,4 @@
-📌 E-Commerce Sales Analysis Dashboard
+#E-Commerce Sales Analysis Dashboard
 
 This project involves end-to-end analysis of an e-commerce store's annual sales data to extract meaningful business insights and present them through an interactive dashboard built in Microsoft Excel.
 
